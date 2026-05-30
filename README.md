@@ -13,33 +13,17 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhanushkumarsekar\&color=70a5fd\&style=flat-square\&label=Profile+Views)
-
-[![GitHub followers](https://img.shields.io/github/followers/Dhanushkumarsekar?label=Followers\&style=flat-square\&color=70a5fd\&logo=github\&logoColor=white)](https://github.com/Dhanushkumarsekar)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush44/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdae?style=flat-square\&logo=netlify\&logoColor=white)](https://quiet-empanada-f231a3.netlify.app/)
-
+[![GitHub Followers](https://img.shields.io/github/followers/Dhanushkumarsekar?label=Followers\&style=flat-square\&color=70a5fd\&logo=github\&logoColor=white)](https://github.com/Dhanushkumarsekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushkumar%20Sekar-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush44/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdae?style=flat-square\&logo=google-chrome\&logoColor=white)](https://quiet-empanada-f231a3.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-kdhanush484%40gmail.com-bf91f3?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kdhanush484@gmail.com)
 
 </div>
 
 
+
 ```
 
-### 🚀 Quick Facts
-
-* 🎓 B.E Computer Science & Engineering Student
-* 🏫 Coimbatore Institute of Engineering and Technology
-* 📈 Current CGPA: **8.35**
-* 🤖 AI, Computer Vision & Deep Learning Enthusiast
-* 📱 Flutter & MERN Stack Developer
-* 🔌 IoT & Embedded Systems Innovator
-* 🏆 National & State Level Award Winner
-* 🌱 Currently Learning AWS, Docker & Cloud Technologies
-* 💡 Passionate about building assistive technologies for social impact
-
----
 
 ## 👨‍💻 About Me
 
