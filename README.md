@@ -1,4 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Dhanushkumar%20Sekar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Builder%20%7C%20Startup%20Founder%20in%20Making&descAlignY=60&descSize=17" width="100%"/>
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="55%" style="stop-color:#1a1b27"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#bf91f3;stop-opacity:0.4"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#bf91f3;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <path d="M0,130 C150,90 300,160 450,120 C600,80 750,150 900,110 L900,180 L0,180 Z" fill="url(#wave1)"/>
+  <path d="M0,150 C200,110 400,170 600,140 C750,118 850,155 900,145 L900,180 L0,180 Z" fill="url(#wave2)" opacity="0.6"/>
+  <text x="450" y="72" font-family="'Segoe UI',Arial,sans-serif" font-size="40" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Dhanushkumar Sekar</text>
+  <text x="450" y="108" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#70a5fd" text-anchor="middle" letter-spacing="0.5">Full Stack Developer &nbsp;|&nbsp; AI &amp; IoT Builder &nbsp;|&nbsp; Startup Founder in Making</text>
+</svg>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+IoT+Developer;MERN+Stack+%2B+Flutter+%2B+Embedded+Systems;Building+Accessible+%26+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -231,4 +254,25 @@ public class Dhanushkumar {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22"/>
+      <stop offset="50%" style="stop-color:#1a1b27"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdae;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#70a5fd;stop-opacity:0.7"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#bf91f3;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#fbg)"/>
+  <path d="M0,40 C200,10 400,70 600,35 C750,10 850,50 900,30 L900,0 L0,0 Z" fill="url(#fw1)"/>
+  <path d="M0,60 C150,30 350,80 550,50 C700,28 820,65 900,48 L900,0 L0,0 Z" fill="url(#fw2)" opacity="0.6"/>
+</svg>
+</p>
