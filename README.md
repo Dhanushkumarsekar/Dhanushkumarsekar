@@ -1,14 +1,27 @@
-<img src="https://raw.githubusercontent.com/Dhanushkumarsekar/Dhanushkumarsekar/main/banner.png" width="100%" alt="Dhanushkumar Sekar Banner"/>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=180\&section=header\&text=DHANUSHKUMAR%20SEKAR\&fontSize=42\&fontColor=fff\&animation=twinkling\&fontAlignY=32\&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Flutter%20Developer%20%7C%20IoT%20Innovator\&descAlignY=62\&descSize=16)
+
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+IoT+Developer;MERN+Stack+%2B+Flutter+%2B+Embedded+Systems;Building+Accessible+%26+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=750\&lines=Hey+there%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+Flutter+%7C+AI+%7C+IoT+Developer;Building+Solutions+That+Matter+%F0%9F%9A%80;CS+Engineering+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+
 </div>
 
-<br/>
+<div align="center">
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Dhanushkumarsekar&label=Profile+Views&color=70a5fd&style=flat-square"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Dhanushkumarsekar\&color=70a5fd\&style=flat-square\&label=Profile+Views)
+
+[![GitHub followers](https://img.shields.io/github/followers/Dhanushkumarsekar?label=Followers\&style=flat-square\&color=70a5fd\&logo=github\&logoColor=white)](https://github.com/Dhanushkumarsekar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush44/)
+
+[![Email](https://img.shields.io/badge/Email-kdhanush484%40gmail.com-bf91f3?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kdhanush484@gmail.com)
+
 </div>
+
 
 ---
 
