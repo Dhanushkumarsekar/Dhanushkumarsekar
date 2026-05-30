@@ -232,17 +232,21 @@ print(me.motto())
 
 ---
 
-## 📬 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush44/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanushkumarsekar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quiet-empanada-f231a3.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdhanush484@gmail.com)
+### 💬 Connect with Me
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushkumar%20Sekar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush44/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-kdhanush484%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kdhanush484@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dhanushkumarsekar-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhanushkumarsekar)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://quiet-empanada-f231a3.netlify.app/)
 
 ---
 
-<img src="https://raw.githubusercontent.com/Dhanushkumarsekar/Dhanushkumarsekar/main/footer.png" width="100%" alt="Footer Wave"/>
+*"Code. Innovate. Impact."* 🚀
+
+</div>
+
