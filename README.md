@@ -1,43 +1,44 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanushkumar+Sekar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+AI+%26+IoT+Builder+%7C+Startup+Founder+in+Making&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Dhanushkumar%20Sekar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Builder%20%7C%20Startup%20Founder%20in%20Making&descAlignY=60&descSize=17" width="100%"/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+IoT+Developer;Building+Accessible+%26+Impactful+Tech;MERN+Stack+%2B+Flutter+%2B+Embedded+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+IoT+Developer;MERN+Stack+%2B+Flutter+%2B+Embedded+Systems;Building+Accessible+%26+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanushkumarsekar&label=Profile+Views&color=70a5fd&style=flat-square" align="right"/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Dhanushkumarsekar&label=Profile+Views&color=70a5fd&style=flat-square"/>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
 public class Dhanushkumar {
 
-    String name         = "Dhanushkumar Sekar";
-    String location     = "Coimbatore, Tamil Nadu, India";
-    String degree       = "B.E. Computer Science Engineering (2028)";
-    String cgpa         = "8.35";
-    String email        = "kdhanush484@gmail.com";
+    String  name      = "Dhanushkumar Sekar";
+    String  location  = "Coimbatore, Tamil Nadu, India";
+    String  degree    = "B.E. Computer Science Engg (2028)";
+    String  cgpa      = "8.35";
+    String  email     = "kdhanush484@gmail.com";
 
     String[] stack = {
-        "Python", "JavaScript", "Java", "C/C++",
+        "Python", "JavaScript", "Java", "C / C++",
         "React.js", "Node.js", "Flutter", "MongoDB",
         "TensorFlow", "ESP32", "Raspberry Pi"
     };
 
-    String[] currentlyLearning = {
-        "Advanced ML Model Optimization",
+    String[] learning = {
+        "ML Model Optimization + Edge AI",
         "System Design & Scalability",
         "Startup Product Engineering"
     };
 
-    String funFact = "I built a glove that translates sign language using AI 🤟";
+    String funFact =
+        "Built a glove that talks via AI sign language 🤟";
 
     String motto() {
         return "Build things that matter. Ship fast. Impact lives.";
@@ -51,7 +52,7 @@ public class Dhanushkumar {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**🔤 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,8 +63,9 @@ public class Dhanushkumar {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino C](https://img.shields.io/badge/Arduino_C-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**Frameworks & Libraries**
+**🧩 Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -71,24 +73,26 @@ public class Dhanushkumar {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Databases**
+**🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Embedded & IoT**
+**📡 Embedded & IoT**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 
-**Tools & DevOps**
+**🔧 Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -99,12 +103,9 @@ public class Dhanushkumar {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Dhanushkumarsekar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanushkumarsekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Dhanushkumarsekar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushkumarsekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dhanushkumarsekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  &nbsp;&nbsp;
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhanushkumarsekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
 ---
@@ -128,7 +129,7 @@ public class Dhanushkumar {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanushkumarsekar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanushkumarsekar&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -140,15 +141,15 @@ public class Dhanushkumar {
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
-- 🤟 Built a real-time **Indian Sign Language Translator** using Deep Learning, TensorFlow, and OpenCV — improving communication accessibility for specially-abled individuals
-- 🧤 Engineered **GloveCom**, a smart sign language glove integrated with a BLE app using ESP32 Bluetooth and sensor fusion gesture recognition
-- 🌐 Developed **FOZI_V2**, a production-grade full-stack web app (React.js + Node.js + MongoDB + Tailwind) with responsive UI and scalable backend architecture
-- 🏟️ Built **Kovi Turf**, a MERN-stack turf booking platform with slot booking, payment integration, and location-sharing features
-- 📱 Developed a **Billing App** in Flutter/Dart with real-time billing management and responsive mobile UI
-- 🥇 Won **National 2nd Place** at Amazon's innovation competition for Best Project and Best Project-Based Reel
-- 🤖 Participated in the **World Level Robotics Championship** representing engineering innovation
+- 🤟 Built real-time **Indian Sign Language Translator** using Deep Learning, TensorFlow & OpenCV — improving communication accessibility for specially-abled individuals
+- 🧤 Engineered **GloveCom**, a smart BLE sign language glove using ESP32 + sensor fusion gesture recognition, integrated with a Flutter companion app
+- 🌐 Developed **FOZI_V2**, a production-grade full-stack web app (React.js + Node.js + MongoDB + Tailwind CSS) with responsive UI and scalable architecture
+- 🏟️ Built **Kovi Turf**, a MERN-stack turf booking platform with slot booking, payment integration, and live location-sharing
+- 📱 Built a **Billing App** in Flutter/Dart with real-time billing management and responsive cross-platform mobile UI
+- 🥈 Won **National 2nd Place** at Amazon's innovation competition — Best Project & Best Project-Based Reel
+- 🤖 Represented engineering innovation at the **World Level Robotics Championship**
 
 </details>
 
@@ -159,12 +160,12 @@ public class Dhanushkumar {
 <div align="center">
 
 | Project | Stack | Highlights |
-|--------|-------|------------|
-| [🤟 **GloveCom**](https://github.com/Dhanushkumarsekar) | ESP32, BLE, Flutter, Sensor Fusion | AI-powered smart glove for real-time sign language translation; award-winning assistive tech |
-| [🧠 **ISL Translator**](https://github.com/Dhanushkumarsekar) | Python, TensorFlow, OpenCV, CNN, Raspberry Pi | Deep learning-based Indian Sign Language to text; real-time Computer Vision pipeline |
-| [🏟️ **Kovi Turf**](https://github.com/Dhanushkumarsekar) | React.js, Node.js, Express.js, MongoDB | Full MERN turf booking platform with payment integration, slot management & live location |
-| [⚡ **FOZI_V2**](https://github.com/Dhanushkumarsekar) | React.js, Node.js, Express.js, MongoDB, Tailwind | Scalable modern web app with responsive UI/UX and production-ready architecture |
-| [📱 **Billing App**](https://github.com/Dhanushkumarsekar) | Flutter, Dart, Firebase | Cross-platform real-time billing management mobile application |
+|---------|-------|------------|
+| [🤟 **GloveCom**](https://github.com/Dhanushkumarsekar) | ESP32 · BLE · Flutter · Sensor Fusion | AI-powered smart glove for real-time sign language — award-winning assistive tech |
+| [🧠 **ISL Translator**](https://github.com/Dhanushkumarsekar) | Python · TensorFlow · OpenCV · CNN · Raspberry Pi | Real-time Indian Sign Language → Text using Deep Learning & Computer Vision |
+| [🏟️ **Kovi Turf**](https://github.com/Dhanushkumarsekar) | React.js · Node.js · Express.js · MongoDB | Full MERN turf booking — slot management, payments & live location |
+| [⚡ **FOZI_V2**](https://github.com/Dhanushkumarsekar) | React.js · Node.js · MongoDB · Tailwind CSS | Modern scalable web app with production-ready UI/UX architecture |
+| [📱 **Billing App**](https://github.com/Dhanushkumarsekar) | Flutter · Dart · Firebase | Cross-platform real-time billing management mobile application |
 
 </div>
 
@@ -185,9 +186,9 @@ public class Dhanushkumar {
 | 🤖 | **World Level Participant** | Robotics Championship |
 | 🌐 | **Investor Connect** | Multiple startup ecosystem events attended |
 | 🏅 | **Employee of the Month** | Error Makes Clever |
-| 📜 | **Certified** | Fundamentals of Web Development – B21 |
-| 🛡️ | **Certified** | Cyber Tech Mastery – Selfmade Ninja Academy |
-| 🐍 | **Certified** | Master Python & Ethical Hacking – TagMango |
+| 📜 | **Certified** | Fundamentals of Web Development — B21 |
+| 🛡️ | **Certified** | Cyber Tech Mastery — Selfmade Ninja Academy |
+| 🐍 | **Certified** | Master Python & Ethical Hacking — TagMango |
 
 </div>
 
@@ -198,7 +199,7 @@ public class Dhanushkumar {
 <div align="center">
 
 | Degree | Institution | Expected Year | CGPA |
-|--------|-------------|---------------|------|
+|--------|-------------|:-------------:|:----:|
 | B.E. Computer Science & Engineering | Coimbatore Institute of Engineering and Technology | 2028 | 8.35 |
 
 </div>
@@ -208,11 +209,11 @@ public class Dhanushkumar {
 ## 📚 Currently Learning
 
 ```
-🧠 Advanced ML        → Model Optimization, TensorFlow Lite, Edge Inference
-🏗️  System Design      → Scalability, Microservices, Load Balancing
-🚀 Startup Building   → MVP Development, Product-Market Fit, Fundraising
-☁️  Cloud & DevOps     → Docker, CI/CD, AWS Basics
-📡 IoT & Edge AI      → Sensor Fusion, BLE Protocols, Embedded Inference
+🧠 Advanced ML        →  Model Optimization · TFLite · Edge Inference
+🏗️  System Design      →  Scalability · Microservices · Load Balancing
+🚀 Startup Building   →  MVP Dev · Product-Market Fit · Fundraising
+☁️  Cloud & DevOps     →  Docker · CI/CD · AWS Basics
+📡 IoT & Edge AI      →  Sensor Fusion · BLE Protocols · Embedded AI
 ```
 
 ---
@@ -221,13 +222,13 @@ public class Dhanushkumar {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush44/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushkumarsekar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://quiet-empanada-f231a3.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kdhanush484@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush44/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanushkumarsekar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quiet-empanada-f231a3.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdhanush484@gmail.com)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
