@@ -1,5 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHANUSHKUMAR%20SEKAR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Innovator%20%7C%20Building%20Technology%20for%20Social%20Impact&descAlignY=62&descSize=16"/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+IoT+Innovator;Building+Technology+for+Social+Impact;Always+Learning+and+Creating" /> </div> <div align="center">
+<img src="https://raw.githubusercontent.com/Dhanushkumarsekar/Dhanushkumarsekar/main/banner.png" width="100%" alt="Dhanushkumar Sekar Banner"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+%7C+AI+%7C+IoT+Developer;MERN+Stack+%2B+Flutter+%2B+Embedded+Systems;Building+Accessible+%26+Impactful+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -229,4 +231,4 @@ public class Dhanushkumar {
 
 ---
 
-<img src="https://raw.githubusercontent.com/Dhanushkumarsekar/Dhanushkumarsekar/main/footer.svg" width="100%" alt="Footer Wave"/>
+<img src="https://raw.githubusercontent.com/Dhanushkumarsekar/Dhanushkumarsekar/main/footer.png" width="100%" alt="Footer Wave"/>
