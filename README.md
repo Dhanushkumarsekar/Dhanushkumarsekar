@@ -237,11 +237,8 @@ print(me.motto())
 ### 💬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushkumar%20Sekar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush44/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-kdhanush484%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kdhanush484@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Dhanushkumarsekar-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhanushkumarsekar)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://quiet-empanada-f231a3.netlify.app/)
 
 ---
@@ -249,4 +246,7 @@ print(me.motto())
 *"Code. Innovate. Impact."* 🚀
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 
