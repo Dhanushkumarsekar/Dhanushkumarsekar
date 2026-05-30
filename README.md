@@ -20,11 +20,7 @@
 
 </div>
 
-
-
 ```
-
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -80,7 +76,7 @@ print(me.motto())
 ```
 
 <br clear="right"/>
-
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
