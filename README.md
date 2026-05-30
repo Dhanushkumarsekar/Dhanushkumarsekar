@@ -29,44 +29,27 @@
 ```python
 class DhanushkumarSekar:
     def __init__(self):
-        self.name        = "Dhanushkumar Sekar"
-        self.github      = "github.com/Dhanushkumarsekar"
-        self.location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E. Computer Science & Engineering (2028)"
-        self.cgpa        = 8.35
-        self.email       = "kdhanush484@gmail.com"
+        self.name = "Dhanushkumar Sekar"
+        self.role = "Full Stack Developer"
+        self.location = "Coimbatore, India 🇮🇳"
+        self.degree = "B.E CSE (2028)"
+        self.cgpa = 8.35
 
-        self.stack = [
-            "MERN Stack",
-            "Flutter (Dart)",
-            "Python",
-            "TensorFlow",
-            "OpenCV",
-            "ESP32 / IoT",
-            "React.js",
-            "Node.js",
-            "MongoDB"
+        self.skills = [
+            "Python", "React", "Node.js",
+            "Flutter", "MongoDB",
+            "TensorFlow", "OpenCV",
+            "ESP32", "IoT"
         ]
 
-        self.currently_learning = [
-            "AWS Cloud Practitioner",
-            "Docker & CI/CD",
-            "System Design",
-            "Advanced MERN Stack",
-            "Edge AI & TensorFlow Lite"
-        ]
-
-        self.achievements = [
-            "National 2nd Place - Amazon Best Project",
-            "National 2nd Place - Amazon Best Project Reel",
-            "State 2nd Place - Atal Tinkering Lab",
-            "World Robotics Championship Participant"
+        self.learning = [
+            "AWS", "Docker",
+            "CI/CD", "System Design"
         ]
 
         self.fun_fact = (
-            "I built a Smart Sign Language Translator "
-            "Glove integrated with a Flutter App using "
-            "AI, IoT, ESP32 and Sensor Fusion! 🤟"
+            "Built an AI-powered Sign "
+            "Language Translator Glove 🤟"
         )
 
     def motto(self):
