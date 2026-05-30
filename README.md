@@ -25,41 +25,62 @@
 ```
 
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Dhanushkumar {
+```python
+class DhanushkumarSekar:
+    def __init__(self):
+        self.name        = "Dhanushkumar Sekar"
+        self.github      = "github.com/Dhanushkumarsekar"
+        self.location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
+        self.degree      = "B.E. Computer Science & Engineering (2028)"
+        self.cgpa        = 8.35
+        self.email       = "kdhanush484@gmail.com"
 
-    String  name      = "Dhanushkumar Sekar";
-    String  location  = "Coimbatore, Tamil Nadu, India";
-    String  degree    = "B.E. Computer Science Engg (2028)";
-    String  cgpa      = "8.35";
-    String  email     = "kdhanush484@gmail.com";
+        self.stack = [
+            "MERN Stack",
+            "Flutter (Dart)",
+            "Python",
+            "TensorFlow",
+            "OpenCV",
+            "ESP32 / IoT",
+            "React.js",
+            "Node.js",
+            "MongoDB"
+        ]
 
-    String[] stack = {
-        "Python", "JavaScript", "Java", "C / C++",
-        "React.js", "Node.js", "Flutter", "MongoDB",
-        "TensorFlow", "ESP32", "Raspberry Pi"
-    };
+        self.currently_learning = [
+            "AWS Cloud Practitioner",
+            "Docker & CI/CD",
+            "System Design",
+            "Advanced MERN Stack",
+            "Edge AI & TensorFlow Lite"
+        ]
 
-    String[] learning = {
-        "ML Model Optimization + Edge AI",
-        "System Design & Scalability",
-        "Startup Product Engineering"
-    };
+        self.achievements = [
+            "National 2nd Place - Amazon Best Project",
+            "National 2nd Place - Amazon Best Project Reel",
+            "State 2nd Place - Atal Tinkering Lab",
+            "World Robotics Championship Participant"
+        ]
 
-    String funFact =
-        "Built a glove that talks via AI sign language 🤟";
+        self.fun_fact = (
+            "I built a Smart Sign Language Translator "
+            "Glove integrated with a Flutter App using "
+            "AI, IoT, ESP32 and Sensor Fusion! 🤟"
+        )
 
-    String motto() {
-        return "Build things that matter. Ship fast. Impact lives.";
-    }
-}
+    def motto(self):
+        return "Code. Innovate. Impact. 🚀"
+
+me = DhanushkumarSekar()
+print(me.motto())
 ```
 
 <br clear="right"/>
+
 
 ---
 
